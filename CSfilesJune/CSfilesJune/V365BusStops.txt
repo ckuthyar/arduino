@@ -1,0 +1,158 @@
+***** Day One begin *****
+
+ Kempegowda Bus Station
+ Maharani College ( BESIDE SJP COLLEGE)
+ KR Circle ( BESIDE DISTRICT TREASURY OFFICE)
+ St Marthas Hospital ( BESIDE POLICE HEAD QUARTERS)
+ Corporation ( IN FRONT OF BBMP, CORPORATION) ,CORPORATION
+ Subbaiah Circle
+ KH Road
+ Shanthinagar Bus Stand ( BESIDE BMTC BUS STAND BIG BAZAAR) ,SHANTHI NAGARA
+ Wilson Garden Police Station ( OPPOSITE OF SYNDICATE BANK) ,WILSON GARDEN
+ Wilson Garden 12th Cross ( OPPOSITE OF PRESTIGE KITECHEN SMART) ,WILSON GARDEN
+ Lakkasandra ( OPPOSITE OF NIMAHANS CONVENTION CENTER)
+ Nimhans Hospital ( IN FRONT OF NIMHANS HOSPITAL GATE)
+ Bangalore Dairy Circle
+ Ashrama ( OPPOSITE OF BHARATH PETROL BUNK)
+ Jal Bhavan
+ Gurappana palya
+ MICO Checkpost
+ JP Nagara 3rd Phase
+ Bilekalli
+ IIM Appolo Hospital
+ Arakere Gate Byrapura
+ BPL
+ Hulimavu Gate
+ Meenakshi Temple
+ Loyala School
+ Kalena Agrahara
+ Gottigere High School
+ Gottigere
+ TJohn College Cross
+ Basavanapura Gate
+ Koli Farm Gate Bannerghatta Road
+ Tulip Resort Cross
+ Kalkere
+ AMC College Bannerghatta Road
+ Jalli Machine Bannerghatta Road
+ Vijaya Bank Banneragatta Circle
+ Bannerghatta Circle
+ Sampigehalli ,BHANNERGAHTTA POST
+ Bannerghatta National Park
+
+***** Day One end *****
+
+
+
+***** Day Two begin *****
+
+ Kempegowda Bus Station
+char msgstrlib1A[] = "Maharani College"
+char msgstrlib1B[] = "KR Circle"
+char msgstrlib1C[] = "St Marthas Hospital"
+char msgstrlib1D[] = "Corporation"
+char msgstrlib1E[] = "Subbaiah Circle"
+char msgstrlib1F[] = "KH Road"
+char msgstrlib1G[] = "Shanthinagar Bus Stand"
+char msgstrlib1H[] = "Wilson Garden Police Station"
+char msgstrlib1I[] = "Wilson Garden 12th Cross"
+char msgstrlib1J[] = "Lakkasandra"
+char msgstrlib1K[] = "Nimhans Hospital"
+char msgstrlib1L[] = "Bangalore Dairy Circle"
+char msgstrlib1M[] = "Ashrama"
+char msgstrlib1N[] = "Jal Bhavan"
+char msgstrlib1O[] = "Gurappana palya"
+char msgstrlib1P[] = "MICO Checkpost"
+char msgstrlib1Q[] = "JP Nagara 3rd Phase"
+char msgstrlib1R[] = "Bilekalli"
+char msgstrlib1S[] = "IIM Appolo Hospital"
+char msgstrlib1T[] = "Arakere Gate Byrapura"
+char msgstrlib1U[] = "BPL"
+char msgstrlib1V[] = "Hulimavu Gate"
+char msgstrlib1W[] = "Meenakshi Temple"
+char msgstrlib1X[] = "Loyala School"
+char msgstrlib1Y[] = "Kalena Agrahara"
+char msgstrlib1Z[] = "Gottigere High School"
+char msgstrlib2A[] = "Gottigere"
+char msgstrlib2B[] = "TJohn College Cross"
+char msgstrlib2C[] = "Basavanapura Gate"
+char msgstrlib2D[] = "Koli Farm Gate Bannerghatta Road"
+char msgstrlib2E[] = "Tulip Resort Cross"
+char msgstrlib2F[] = "Kalkere"
+char msgstrlib2G[] = "AMC College Bannerghatta Road"
+char msgstrlib2H[] = "Jalli Machine Bannerghatta Road"
+char msgstrlib2I[] = "Vijaya Bank Banneragatta Circle"
+char msgstrlib2J[] = "Bannerghatta Circle"
+char msgstrlib2K[] = "Sampigehalli"
+ Bannerghatta National Park
+
+***** Day Two end *****
+
+
+
+
+***** Day Three begin *****
+
+ "Kempegowda Bus Station, Maharani College, KR Circle, St Marthas Hospital, Corporation" 
+ "Subbaiah Circle, KH Road, Shanthinagar Bus Stand, Wilson Garden Police Station, Wilson Garden 12th Cross"
+ "Lakkasandra, Nimhans Hospital, Bangalore Dairy Circle, Ashrama, Jal Bhavan"
+ "Gurappana palya,  MICO Checkpost, JP Nagara 3rd Phase, Bilekalli, IIM Appolo Hospital"
+ "Arakere Gate Byrapura, BPL, Hulimavu Gate, Meenakshi Temple, Loyala School"
+ "Kalena Agrahara, Gottigere High School, Gottigere, TJohn College Cross, Basavanapura Gate"
+ "Koli Farm Gate Bannerghatta Road, Tulip Resort Cross, Kalkere, AMC College Bannerghatta Road"
+ "Jalli Machine Bannerghatta Road, Vijaya Bank Banneragatta Circle, Bannerghatta Circle"
+ "Sampigehalli, Bannerghatta National Park, Ha.. Ha.. Ha.."
+
+
+char msgstrlib1[] =  "Kempegowda Bus Station, Maharani College, KR Circle, St Marthas Hospital, Corporation" 
+char msgstrlib2[] =  "Subbaiah Circle, KH Road, Shanthinagar Bus Stand, Wilson Garden Police Station, Wilson Garden 12th Cross"
+char msgstrlib3[] =  "Lakkasandra, Nimhans Hospital, Bangalore Dairy Circle, Ashrama, Jal Bhavan"
+char msgstrlib4[] =  "Gurappana palya,  MICO Checkpost, JP Nagara 3rd Phase, Bilekalli, IIM Appolo Hospital"
+char msgstrlib5[] =  "Arakere Gate Byrapura, BPL, Hulimavu Gate, Meenakshi Temple, Loyala School"
+char msgstrlib6[] =  "Kalena Agrahara, Gottigere High School, Gottigere, TJohn College Cross"
+char msgstrlib7[] =  "Basavanapura Gate, Koli Farm Gate Bannerghatta Road, Tulip Resort Cross, Kalkere"
+char msgstrlib8[] =  "AMC College Bannerghatta Road, Jalli Machine Bannerghatta Road, Vijaya Bank Banneragatta Circle"
+char msgstrlib9[] =  "Bannerghatta Circle, Sampigehalli, Bannerghatta National Park, Ha.. Ha.. Ha.."
+
+/*
+String limiters[] =  "123456789a123456789b123456789c123456789d123456789e123456789f123456789g123456789h123456789i"
+*/
+
+***** Day Three end *****
+
+
+
+
+***** Day Four begin *****
+
+ Kempegowda Bus Station
+
+ "Maharani College, KR Circle, St Marthas Hospital, Corporation, Subbaiah Circle" 
+ "KH Road, Shanthinagar Bus Stand, Wilson Garden Police Station, Wilson Garden 12th Cross"
+ "Lakkasandra, Nimhans Hospital, Bangalore Dairy Circle, Ashrama, Jal Bhavan"
+ "Gurappana palya,  MICO Checkpost, JP Nagara 3rd Phase, Bilekalli, IIM Appolo Hospital"
+ "Arakere Gate Byrapura, BPL, Hulimavu Gate, Meenakshi Temple, Loyala School"
+ "Kalena Agrahara, Gottigere High School, Gottigere, TJohn College Cross, Basavanapura Gate"
+ "Koli Farm Gate, Tulip Resort Cross, Kalkere, AMC College, Jalli Machine"
+ "Vijaya Bank, Bannerghatta Circle, Sampigehalli,  Ha..  Ha..  Ha.."
+
+ Bannerghatta National Park
+
+char msgstrlib1[] =  "Welcome to BMTC Volvo A/C service"
+char msgstrlib2[] =  "Maharani College, KR Circle, St Marthas Hospital, Corporation, Subbaiah Circle" 
+char msgstrlib3[] =  "KH Road, Shanthinagar Bus Stand, Wilson Garden Police Station, Wilson Garden 12th Cross"
+char msgstrlib4[] =  "Lakkasandra, Nimhans Hospital, Bangalore Dairy Circle, Ashrama, Jal Bhavan"
+char msgstrlib5[] =  "Gurappana palya,  MICO Checkpost, JP Nagara 3rd Phase, Bilekalli, IIM Appolo Hospital"
+char msgstrlib6[] =  "Arakere Gate Byrapura, BPL, Hulimavu Gate, Meenakshi Temple, Loyala School"
+char msgstrlib7[] =  "Kalena Agrahara, Gottigere High School, Gottigere, TJohn College Cross, Basavanapura Gate"
+char msgstrlib8[] =  "Koli Farm Gate, Tulip Resort Cross, Kalkere, AMC College, Jalli Machine"
+char msgstrlib9[] =  "Vijaya Bank, Bannerghatta Circle, Sampigehalli,  Ha..  Ha..  Ha.."
+
+/*
+String limiters[] =  "123456789a123456789b123456789c123456789d123456789e123456789f123456789g123456789h123456789i"
+*/
+
+
+***** Day Four end *****
+
+Explore how to make this scrolling intelligent !!!!!
